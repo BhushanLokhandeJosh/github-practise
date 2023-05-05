@@ -1,0 +1,44 @@
+
+.label-text{
+    padding-bottom: 10px;
+     text-align: left;
+}
+
+.label-style {
+    font-size: 20px;
+    text-align: left;
+    text-decoration-line:inherit;
+}
+ 
+.input-field-style{
+    width: 100%;
+}
+
+.input-field-style:hover{
+    background-color: red;
+}
+
+.error-message {
+    color: red;
+    text-align: left;
+}
+
+.input-control {
+    width: 10%;
+    padding: 10px 0px;
+    margin:5px 0px;
+    text-align: center;
+}
+
+
+
+.submit-button-style {
+     background-color: rgb(199, 96, 96);
+     color: rgb(11, 10, 10);
+     padding: 5px 10px;
+}
+
+.button-submit {
+    padding-top: 5%;
+    text-align: center;
+}

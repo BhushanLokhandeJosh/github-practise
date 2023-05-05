@@ -1,0 +1,81 @@
+
+.card-container {
+    margin: 5%;
+    width: auto;
+    height: auto;
+    padding:30px;
+    text-align: left;
+    border: 1px solid rgb(220, 216, 216);
+    box-shadow: 3px 3px rgb(234, 233, 233);
+    border-radius: 4px;
+}
+
+.header-style {
+    text-align: left;
+    font-size: 25px;
+}
+
+.subheading-style {
+    width: 15%;
+    font-size: 20px;
+    color: rgb(76, 75, 75);
+}
+
+.card-body {
+    display: flex;
+    flex-direction: row;
+    column-gap: 15px;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.select-box {
+    background-color: red;
+    width: 150%;
+}
+
+.form-styling {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 30px;
+    width: 200px;
+}
+
+.form {
+    display: flex;
+    flex-direction: row;
+}
+
+.select-timezone {
+    width: 20%;
+    padding: 10px 0px;
+    margin:5px 0px;
+    text-align: center;
+}
+
+
+.form-control{
+    width: 10%;
+    padding: 10px 0px;
+    margin:5px 0px;
+    text-align: center;
+}
+
+.form-control:hover{
+    background-color: rgb(248, 242, 242);
+}
+
+.form-control-timezone {
+    width: 20%;
+    padding: 10px 0px;
+    margin:5px 0px;
+    text-align: center;
+}
+
+.button-submit{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 30px;
+}
