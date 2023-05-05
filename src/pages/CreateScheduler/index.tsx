@@ -13,6 +13,6 @@ const CreateSchedulerContainer = () => {
   );
 };
 
-// line added by feature 1 developers.
+// line added by feature 2 developers.
 
 export default CreateSchedulerContainer;
